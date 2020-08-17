@@ -1,0 +1,7 @@
+C:\CSharp_ProjectFiles\EX2A_CalculatingAverages\obj\Debug\EX2A_CalculatingAverages.csprojAssemblyReference.cache
+C:\CSharp_ProjectFiles\EX2A_CalculatingAverages\obj\Debug\EX2A_CalculatingAverages.csproj.CoreCompileInputs.cache
+C:\CSharp_ProjectFiles\EX2A_CalculatingAverages\bin\Debug\EX2A_CalculatingAverages.exe.config
+C:\CSharp_ProjectFiles\EX2A_CalculatingAverages\bin\Debug\EX2A_CalculatingAverages.exe
+C:\CSharp_ProjectFiles\EX2A_CalculatingAverages\bin\Debug\EX2A_CalculatingAverages.pdb
+C:\CSharp_ProjectFiles\EX2A_CalculatingAverages\obj\Debug\EX2A_CalculatingAverages.exe
+C:\CSharp_ProjectFiles\EX2A_CalculatingAverages\obj\Debug\EX2A_CalculatingAverages.pdb
