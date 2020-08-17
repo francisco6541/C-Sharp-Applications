@@ -1,0 +1,7 @@
+C:\CSharp_ProjectFiles\MathApp\bin\Debug\MathApp.exe.config
+C:\CSharp_ProjectFiles\MathApp\bin\Debug\MathApp.exe
+C:\CSharp_ProjectFiles\MathApp\bin\Debug\MathApp.pdb
+C:\CSharp_ProjectFiles\MathApp\obj\Debug\MathApp.csprojAssemblyReference.cache
+C:\CSharp_ProjectFiles\MathApp\obj\Debug\MathApp.csproj.CoreCompileInputs.cache
+C:\CSharp_ProjectFiles\MathApp\obj\Debug\MathApp.exe
+C:\CSharp_ProjectFiles\MathApp\obj\Debug\MathApp.pdb

@@ -1,0 +1,14 @@
+C:\Users\Francisco\source\repos\LAB3C\bin\Debug\LAB3C.exe.config
+C:\Users\Francisco\source\repos\LAB3C\bin\Debug\LAB3C.exe
+C:\Users\Francisco\source\repos\LAB3C\bin\Debug\LAB3C.pdb
+C:\Users\Francisco\source\repos\LAB3C\obj\Debug\LAB3C.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\LAB3C\obj\Debug\LAB3C.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\LAB3C\obj\Debug\LAB3C.exe
+C:\Users\Francisco\source\repos\LAB3C\obj\Debug\LAB3C.pdb
+C:\CSharp_ProjectFiles\LAB3C\bin\Debug\LAB3C.exe.config
+C:\CSharp_ProjectFiles\LAB3C\bin\Debug\LAB3C.exe
+C:\CSharp_ProjectFiles\LAB3C\bin\Debug\LAB3C.pdb
+C:\CSharp_ProjectFiles\LAB3C\obj\Debug\LAB3C.csprojAssemblyReference.cache
+C:\CSharp_ProjectFiles\LAB3C\obj\Debug\LAB3C.csproj.CoreCompileInputs.cache
+C:\CSharp_ProjectFiles\LAB3C\obj\Debug\LAB3C.exe
+C:\CSharp_ProjectFiles\LAB3C\obj\Debug\LAB3C.pdb
