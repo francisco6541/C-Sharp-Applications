@@ -1,0 +1,7 @@
+C:\CSharp_ProjectFiles\IndividualWork_07292020\bin\Debug\IndividualWork_07292020.exe.config
+C:\CSharp_ProjectFiles\IndividualWork_07292020\bin\Debug\IndividualWork_07292020.exe
+C:\CSharp_ProjectFiles\IndividualWork_07292020\bin\Debug\IndividualWork_07292020.pdb
+C:\CSharp_ProjectFiles\IndividualWork_07292020\obj\Debug\IndividualWork_07292020.csprojAssemblyReference.cache
+C:\CSharp_ProjectFiles\IndividualWork_07292020\obj\Debug\IndividualWork_07292020.csproj.CoreCompileInputs.cache
+C:\CSharp_ProjectFiles\IndividualWork_07292020\obj\Debug\IndividualWork_07292020.exe
+C:\CSharp_ProjectFiles\IndividualWork_07292020\obj\Debug\IndividualWork_07292020.pdb
