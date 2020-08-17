@@ -1,0 +1,7 @@
+C:\CSharp_ProjectFiles\MathematicalFormulasRevision\bin\Debug\MathematicalFormulasRevision.exe.config
+C:\CSharp_ProjectFiles\MathematicalFormulasRevision\bin\Debug\MathematicalFormulasRevision.exe
+C:\CSharp_ProjectFiles\MathematicalFormulasRevision\bin\Debug\MathematicalFormulasRevision.pdb
+C:\CSharp_ProjectFiles\MathematicalFormulasRevision\obj\Debug\MathematicalFormulasRevision.csprojAssemblyReference.cache
+C:\CSharp_ProjectFiles\MathematicalFormulasRevision\obj\Debug\MathematicalFormulasRevision.csproj.CoreCompileInputs.cache
+C:\CSharp_ProjectFiles\MathematicalFormulasRevision\obj\Debug\MathematicalFormulasRevision.exe
+C:\CSharp_ProjectFiles\MathematicalFormulasRevision\obj\Debug\MathematicalFormulasRevision.pdb
