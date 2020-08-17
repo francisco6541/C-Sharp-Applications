@@ -1,0 +1,7 @@
+C:\Users\Francisco\Desktop\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+C:\Users\Francisco\Desktop\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\Users\Francisco\Desktop\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\Users\Francisco\Desktop\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csprojAssemblyReference.cache
+C:\Users\Francisco\Desktop\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+C:\Users\Francisco\Desktop\Microsoft Press\VCSBS\Chapter 12\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.pdb
