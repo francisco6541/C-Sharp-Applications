@@ -1,0 +1,13 @@
+C:\CSharp_ProjectFiles\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.exe
+C:\CSharp_ProjectFiles\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.deps.json
+C:\CSharp_ProjectFiles\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.runtimeconfig.json
+C:\CSharp_ProjectFiles\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.runtimeconfig.dev.json
+C:\CSharp_ProjectFiles\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.dll
+C:\CSharp_ProjectFiles\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.pdb
+C:\CSharp_ProjectFiles\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.csprojAssemblyReference.cache
+C:\CSharp_ProjectFiles\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.AssemblyInfoInputs.cache
+C:\CSharp_ProjectFiles\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.AssemblyInfo.cs
+C:\CSharp_ProjectFiles\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.csproj.CoreCompileInputs.cache
+C:\CSharp_ProjectFiles\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.dll
+C:\CSharp_ProjectFiles\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.pdb
+C:\CSharp_ProjectFiles\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.genruntimeconfig.cache
